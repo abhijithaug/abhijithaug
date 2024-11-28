@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abhijith Augustine (@abhijithaug)
 
 ## 🌟 About Me
-I am a **Power BI Developer** and **Data Analyst** with over 5 years of experience in business intelligence, data analytics, and reporting. I specialize in delivering impactful solutions that empower organizations to make data-driven decisions.
+I am a **Power BI Developer** and **Data Analyst** with over 5 years of experience in business intelligence, data analytics, and reporting. I specialize in delivering impactful solutions that empower organizations to make data-driven decisions. I have successfully transitioned from a decade-long career as a Control Engineer to becoming a Data Analyst, showcasing adaptability, self-learning, and a drive for continuous growth.
 
 ### 👀 I’m interested in:
 - Business Intelligence and Analytics  
