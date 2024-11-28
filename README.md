@@ -19,7 +19,8 @@ I am a **Power BI Developer** and **Data Analyst** with over 5 years of experien
 
 ### 📫 How to reach me:
 - Email: [abhijithaugustinem@gmail.com](mailto:abhijithaugustinem@gmail.com)  
-- LinkedIn: [[Abhijith Augustine](https://www.linkedin.com/in/abhijith-augustine)](https://www.linkedin.com/in/abhijith-augustine-76038318/)  
+- LinkedIn: [[Abhijith Augustine](https://www.linkedin.com/in/abhijith-augustine)](https://www.linkedin.com/in/abhijith-augustine-76038318/)
+- Portfolio: Data Science Portfolio
 
 ### 😄 Pronouns:
 - He/Him  
