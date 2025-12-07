@@ -25,7 +25,7 @@ Currently, I am pursuing my second Master’s in Data Science with a specializat
 - Projects involving data visualization, reporting solutions, and data-driven strategies  
 - Open-source initiatives focused on Power BI and related technologies
 
-Feel free to explore my repos for **BI dashboards, data engineering projects, and ML experiments**. Let's build something data-driven! 🚀
+Feel free to explore my repos for **BI dashboards, data engineering projects, and ML experiments**. Let's build something data-driven!
 
 ###  How to reach me:
 - Email: [abhijithaugustinem@gmail.com](mailto:abhijithaugustinem@gmail.com)  
