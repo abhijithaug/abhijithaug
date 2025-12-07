@@ -13,13 +13,19 @@ Currently, I am pursuing my second Master’s in Data Science with a specializat
 - Data Modeling and Transformation  
 - Emerging tools and technologies in the BI space  
 
-###  I’m currently learning:
-- Advanced features in Power BI Service and Databricks  
-- Enhancing my skills in Data Science and Machine Learning  
+## Skills & Expertise
+
+- **Business Intelligence & Reporting:** KPI design, interactive dashboards, automated reporting  
+- **Data Engineering:** ETL/ELT pipelines, cloud analytics, data transformation, data modeling  
+- **Machine Learning & AI:** Supervised & unsupervised learning, predictive modeling, anomaly detection  
+- **Tools & Platforms:** Power BI, Tableau, Python, SQL, Azure Data Services, Databricks, MLOps  
+- **Process Improvement:** Data validation, cross-functional collaboration, strategic decision support  
 
 ###  I’m looking to collaborate on:
 - Projects involving data visualization, reporting solutions, and data-driven strategies  
-- Open-source initiatives focused on Power BI and related technologies  
+- Open-source initiatives focused on Power BI and related technologies
+
+Feel free to explore my repos for **BI dashboards, data engineering projects, and ML experiments**. Let's build something data-driven! 🚀
 
 ###  How to reach me:
 - Email: [abhijithaugustinem@gmail.com](mailto:abhijithaugustinem@gmail.com)  
